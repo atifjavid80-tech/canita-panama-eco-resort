@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 0;
     padding: 0;
 }
@@ -14,19 +14,10 @@ body {
     color: white;
     margin: 10px;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .container {
     padding: 40px;
     max-width: 900px;
     margin: auto;
-}
-
-h1, h2 {
-    color: #222;
-}
-
-p {
-    line-height: 1.6;
 }
